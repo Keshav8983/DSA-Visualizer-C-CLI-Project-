@@ -70,7 +70,7 @@ Algorithms (sorting, searching, graph traversal)
 How to Run     
 Clone the repository:      
 
-git clone https://github.com/yourusername/DSA-Visualizer.git      
+git clone   https://github.com/Keshav8983/DSA-Visualizer-C-CLI-Project-                   
 cd DSA-Visualizer      
 
 Compile using g++:      
